@@ -10,7 +10,7 @@ const Home = () => {
                 <div className=" bg-gray-200 p-40 rounded-3xl hover:bg-gray-300">Privacy Built-in</div>
                 <div className=" bg-gray-200 p-40 rounded-3xl hover:bg-gray-300">Full calendar integration</div>
                 <div className=" bg-gray-200 p-40 rounded-3xl hover:bg-gray-300">Manage Intuitively</div>
-                <div className=" bg-gray-200 p-40 rounded-3xl hover:bg-gray-300">Drag and Drop to calendar</div>
+                <div className=" bg-gray-200 p-40 rounded-3xl hover:bg-gray-300">Drag and Drop to calendars</div>
 
 
 
